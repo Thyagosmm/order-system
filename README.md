@@ -1,4 +1,4 @@
-# order-system# Sistema de Processamento de Pedidos
+# Sistema de Processamento de Pedidos
 
 Sistema distribuído para e-commerce com comunicação assíncrona via RabbitMQ/CloudAMQP
 
